@@ -1,0 +1,2007 @@
+{
+	"id": "0d4c7c7c-99ae-0897-9c86-672de43ad5cf",
+	"owner": "467189",
+	"name": "Z P1S1",
+	"description": "",
+	"order": [],
+	"folders": [
+		{
+			"owner": "467189",
+			"lastUpdatedBy": "467189",
+			"lastRevision": 259067462,
+			"id": "0d418fcb-d434-7b24-530c-c4a259aebcae",
+			"name": "1user",
+			"description": "",
+			"order": [
+				"e42c8c69-2a59-060b-96df-b70292cd434a",
+				"95c05f18-cdc5-2d06-d949-c091807b7745",
+				"831b8fb4-e73f-005e-ce8a-a09231ec54a2",
+				"630fb44e-1f53-5e5b-4fe9-725d6be0f364",
+				"7eda3c89-9615-3b46-292d-c572cdb3426c",
+				"61ac00e7-8b3f-3839-22d2-d2b0f4a49dd5",
+				"060f504b-20ed-22b4-1db7-f95aa9710134",
+				"f920e596-b347-07f2-a3c4-f46d159c32bc",
+				"b879afd7-125e-d8e3-7fb5-14eb82ade4f5",
+				"0d7379fe-3612-fbb3-15c9-ea856d5a47a3",
+				"d1bccf86-6ac1-d3fa-dce2-b1f067b008e1",
+				"f489f713-9543-8912-8744-12ae5f3d82d5",
+				"41a45591-81d1-54b5-fe1f-f07759a21a54",
+				"564594d6-7a9a-da20-7f77-211fac2e918c",
+				"803bcb5b-81a5-8a65-b7d0-13b0cc737e13",
+				"463beed1-159f-1992-abd7-bec8716357fe",
+				"5d0f4847-c0df-22d2-e0a6-3862843da023",
+				"0b704f6d-21a3-f05b-c70a-12efb704b27c",
+				"14290596-9c54-6bf3-485e-61d2c1630631",
+				"35cbad9e-7377-7c7a-f4e5-b4d45d4ed47e",
+				"edaa9cce-ec00-a42c-682c-a4a2201b1a31"
+			]
+		},
+		{
+			"owner": "467189",
+			"lastUpdatedBy": "467189",
+			"lastRevision": 259067682,
+			"id": "626d666a-7e84-42b5-6099-98221f8a9573",
+			"name": "2BaseStation",
+			"description": "",
+			"order": [
+				"8219f868-3f12-33dc-45bb-810031d85137",
+				"a848a623-bd74-9f3d-7dee-594e59c2a1cf",
+				"44f93758-ab0d-57bd-78f8-fb8ca9b2e660",
+				"464f5a7b-a4a1-cacc-2a85-cd1c7343c713",
+				"f7b420a2-5146-e3f9-e77c-167d556f454c",
+				"f87f2de1-b9bd-cf7c-4205-7eb9bf980529",
+				"056148ec-d1c7-6b02-4cc6-bf7f8dbc5c60",
+				"1bfc8391-818e-9098-484c-70fce48542a5",
+				"07872ec7-c731-c897-65a5-af21725dba43",
+				"19f17ae9-7b20-222c-ed4f-4891ef83b1e2",
+				"2536c5b4-9d1f-382c-f5f4-66b74d8adf0c",
+				"135804ef-e3ba-6a6b-502a-d9de76a6c1ee"
+			],
+			"collectionId": "0d4c7c7c-99ae-0897-9c86-672de43ad5cf"
+		},
+		{
+			"id": "1ffa5fe5-5edf-1752-c3cc-0cb041515345",
+			"name": "3机构",
+			"description": "",
+			"order": [
+				"0feeb913-493d-3e7d-7253-6c99feee6a5f",
+				"7775762e-6d4a-804f-2192-d30e54ab2166",
+				"236f702a-7fd2-fcdb-0e6e-588f471b5dd7",
+				"8fda9ac0-ac12-d9df-3910-fcf4a3ef6125",
+				"ac05ab34-9270-9bde-775a-da897a9060bb",
+				"65daef5b-0086-e00b-6057-d66c70053db7",
+				"8e50f443-c84f-ba7d-e9be-d92e50ab4a48",
+				"6566d86c-af30-890f-33d9-36a1e76b4e5c",
+				"034e1f8b-7cd7-d3f3-746a-cf479d321ac9"
+			],
+			"owner": "467189"
+		},
+		{
+			"id": "a79e2860-d6f8-c05e-01aa-68874af9b0cf",
+			"name": "4电子钥匙",
+			"description": "",
+			"order": [],
+			"owner": "467189"
+		},
+		{
+			"id": "6bec66c6-fe9e-b231-c134-d5012b23a909",
+			"name": "5消息",
+			"description": "",
+			"order": [],
+			"owner": "467189"
+		}
+	],
+	"timestamp": 0,
+	"remoteLink": null,
+	"public": false,
+	"lastUpdatedBy": "467189",
+	"lastRevision": 278456454,
+	"team": null,
+	"requests": [
+		{
+			"folder": "1ffa5fe5-5edf-1752-c3cc-0cb041515345",
+			"id": "034e1f8b-7cd7-d3f3-746a-cf479d321ac9",
+			"name": "更新机构负责人 copy copy",
+			"dataMode": "urlencoded",
+			"data": [
+				{
+					"key": "token",
+					"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjU3MjJjN2NhYzVhZjQ4NjY2ODQ2MWFiMCIsImlhdCI6MTQ2MTk4MTgxNSwiZXhwIjoxNDYyNTg2NjE1fQ.PLUOKfOlLUw20XDAOSbfSrpei23e8itQnMq14wTNfS0",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "_id",
+					"value": "572182a69d2f5b82590f4ea7",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "headPhoneNumber",
+					"value": "12300020021",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "operatorPassword",
+					"value": "123456",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"rawModeData": null,
+			"descriptionFormat": "html",
+			"description": "",
+			"headers": "",
+			"method": "POST",
+			"pathVariables": {},
+			"url": "{{URL}}/v2/company/update/head",
+			"preRequestScript": null,
+			"tests": "tests[\"请求成功\"] = responseCode.code === 200;\r\n\r\n\r\n \r\nvar jsonData = JSON.parse(responseBody);\r\n \r\n \r\ntests[\"回返正确\"] = jsonData.code === 200",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"collectionId": "0d4c7c7c-99ae-0897-9c86-672de43ad5cf"
+		},
+		{
+			"id": "056148ec-d1c7-6b02-4cc6-bf7f8dbc5c60",
+			"headers": "",
+			"url": "{{URL}}/v2/station/update/repairer/add",
+			"preRequestScript": null,
+			"pathVariables": {},
+			"method": "POST",
+			"data": [
+				{
+					"key": "_id",
+					"value": "{{bs_id}}",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "repairerId",
+					"value": "{{P5_id}}",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "token",
+					"value": "{{token}}",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "urlencoded",
+			"tests": "tests[\"请求成功\"] = responseCode.code === 200;\r\n\r\n\r\n \r\nvar jsonData = JSON.parse(responseBody);\r\n \r\n \r\ntests[\"回返正确\"] = jsonData.code === 200",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1464081289563,
+			"name": "新增基站施工公司  ",
+			"description": "",
+			"collectionId": "0d4c7c7c-99ae-0897-9c86-672de43ad5cf"
+		},
+		{
+			"folder": "0d418fcb-d434-7b24-530c-c4a259aebcae",
+			"id": "060f504b-20ed-22b4-1db7-f95aa9710134",
+			"name": "还原P1S2信息 ",
+			"dataMode": "urlencoded",
+			"data": [
+				{
+					"key": "token",
+					"value": "{{token}}",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "_id",
+					"value": "{{_id2}}",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "name",
+					"value": "王立秋",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "email",
+					"value": "wlq@qq.com",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "headship",
+					"value": "省公司工程师",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "newStatus",
+					"value": "inactive",
+					"type": "text",
+					"enabled": false
+				},
+				{
+					"key": "permissions",
+					"value": "",
+					"type": "text",
+					"enabled": false
+				}
+			],
+			"rawModeData": null,
+			"descriptionFormat": null,
+			"description": "",
+			"headers": "",
+			"method": "POST",
+			"pathVariables": {},
+			"url": "{{URL}}/v2/user/update/info",
+			"preRequestScript": null,
+			"tests": "tests[\"请求成功\"] = responseCode.code === 200;\n\n\n \nvar jsonData = JSON.parse(responseBody);\n \n \ntests[\"修改账号信息成功\"] = jsonData.code === 200",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"collectionId": "0d4c7c7c-99ae-0897-9c86-672de43ad5cf"
+		},
+		{
+			"folder": "626d666a-7e84-42b5-6099-98221f8a9573",
+			"id": "07872ec7-c731-c897-65a5-af21725dba43",
+			"name": "查询权基站信息 ",
+			"dataMode": "params",
+			"data": null,
+			"rawModeData": null,
+			"descriptionFormat": "html",
+			"description": "",
+			"headers": "",
+			"method": "GET",
+			"pathVariables": {},
+			"url": "{{URL}}/v2/station/query?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjU3MTczNzdhZjU2M2JkOTMwZDc1Nzc5YyIsImlhdCI6MTQ2MTU3MjM5OCwiZXhwIjoxNDYyMTc3MTk4fQ.m1XQ09CBqSCKjJOMryGKRFweL8ywTKdzfEvs_piVFEw&page=1&count=20",
+			"preRequestScript": null,
+			"tests": "tests[\"请求成功\"] = responseCode.code === 200;\r\n\r\n\r\n \r\nvar jsonData = JSON.parse(responseBody);\r\n \r\n \r\ntests[\"回返正确\"] = jsonData.code === 200",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"collectionId": "0d4c7c7c-99ae-0897-9c86-672de43ad5cf"
+		},
+		{
+			"folder": "0d418fcb-d434-7b24-530c-c4a259aebcae",
+			"id": "0b704f6d-21a3-f05b-c70a-12efb704b27c",
+			"name": "用户退出登陆 ",
+			"dataMode": "urlencoded",
+			"data": [
+				{
+					"key": "token",
+					"value": "{{token}}",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"rawModeData": null,
+			"descriptionFormat": null,
+			"description": "",
+			"headers": "",
+			"method": "POST",
+			"pathVariables": {},
+			"url": "{{URL}}/v2/user/signout",
+			"preRequestScript": null,
+			"tests": "tests[\"请求成功\"] = responseCode.code === 200;\n\n\n \nvar jsonData = JSON.parse(responseBody);\n \n \ntests[\"退出成功\"] = jsonData.code === 200\n\n",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"collectionId": "0d4c7c7c-99ae-0897-9c86-672de43ad5cf"
+		},
+		{
+			"folder": "0d418fcb-d434-7b24-530c-c4a259aebcae",
+			"id": "0d7379fe-3612-fbb3-15c9-ea856d5a47a3",
+			"name": "P1S1新密码登陆",
+			"dataMode": "urlencoded",
+			"data": [
+				{
+					"key": "phoneNumber",
+					"value": "12300010001",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "password",
+					"value": "111111",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "captcha",
+					"value": "ghjfth",
+					"type": "text",
+					"enabled": false
+				}
+			],
+			"rawModeData": null,
+			"descriptionFormat": null,
+			"description": "",
+			"headers": "//Authorization: Basic MTIzMDAyODAyMjE6MTIzNDU2\n",
+			"method": "POST",
+			"pathVariables": {},
+			"url": "{{URL}}/v2/user/signin",
+			"preRequestScript": null,
+			"tests": "tests[\"请求成功\"] = responseCode.code === 200;\n\n\n \nvar jsonData = JSON.parse(responseBody);\n \n \ntests[\"登陆成功\"] = jsonData.code === 200\n\n\n\npostman.setEnvironmentVariable(\"token\", jsonData.data.accessToken);\npostman.setEnvironmentVariable(\"_id\", jsonData.data._id);\n\n\n",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"collectionId": "0d4c7c7c-99ae-0897-9c86-672de43ad5cf"
+		},
+		{
+			"folder": "1ffa5fe5-5edf-1752-c3cc-0cb041515345",
+			"id": "0feeb913-493d-3e7d-7253-6c99feee6a5f",
+			"name": "P1S1登陆 ",
+			"dataMode": "urlencoded",
+			"data": [
+				{
+					"key": "phoneNumber",
+					"value": "12300010001",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "password",
+					"value": "123456",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "captcha",
+					"value": "ghjfth",
+					"type": "text",
+					"enabled": false
+				}
+			],
+			"rawModeData": null,
+			"descriptionFormat": null,
+			"description": "",
+			"headers": "//Authorization: Basic MTIzMDAyODAyMjE6MTIzNDU2\n",
+			"method": "POST",
+			"pathVariables": {},
+			"url": "{{URL}}/v2/user/signin",
+			"preRequestScript": null,
+			"tests": "tests[\"请求成功\"] = responseCode.code === 200;\n\n\n \nvar jsonData = JSON.parse(responseBody);\n \n \ntests[\"登陆成功\"] = jsonData.code === 200\n\n\n\npostman.setEnvironmentVariable(\"token\", jsonData.data.accessToken);\n//postman.setEnvironmentVariable(\"_id\", jsonData.data._id);\n\n\n",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"collectionId": "0d4c7c7c-99ae-0897-9c86-672de43ad5cf"
+		},
+		{
+			"id": "135804ef-e3ba-6a6b-502a-d9de76a6c1ee",
+			"headers": "",
+			"url": "{{URL}}/v2/station/update/repairer/del",
+			"preRequestScript": null,
+			"pathVariables": {},
+			"method": "POST",
+			"data": [
+				{
+					"key": "_id",
+					"value": "570b5ef1145af99d28cc0ec1",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "token",
+					"value": "{{token}}",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "urlencoded",
+			"tests": "tests[\"请求成功\"] = responseCode.code === 200;\r\n\r\n\r\n \r\nvar jsonData = JSON.parse(responseBody);\r\n \r\n \r\ntests[\"回返正确\"] = jsonData.code === 200",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1464083528260,
+			"name": "删除基站 ",
+			"description": "",
+			"collectionId": "0d4c7c7c-99ae-0897-9c86-672de43ad5cf"
+		},
+		{
+			"folder": "0d418fcb-d434-7b24-530c-c4a259aebcae",
+			"id": "14290596-9c54-6bf3-485e-61d2c1630631",
+			"name": "P1S1登陆",
+			"dataMode": "urlencoded",
+			"data": [
+				{
+					"key": "phoneNumber",
+					"value": "12300010001",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "password",
+					"value": "123456",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "captcha",
+					"value": "ghjfth",
+					"type": "text",
+					"enabled": false
+				}
+			],
+			"rawModeData": null,
+			"descriptionFormat": null,
+			"description": "",
+			"headers": "//Authorization: Basic MTIzMDAyODAyMjE6MTIzNDU2\n",
+			"method": "POST",
+			"pathVariables": {},
+			"url": "{{URL}}/v2/user/signin",
+			"preRequestScript": null,
+			"tests": "tests[\"请求成功\"] = responseCode.code === 200;\n\n\n \nvar jsonData = JSON.parse(responseBody);\n \n \ntests[\"登陆成功\"] = jsonData.code === 200\n\n\n\npostman.setEnvironmentVariable(\"token\", jsonData.data.accessToken);\npostman.setEnvironmentVariable(\"_id\", jsonData.data._id);\n\n\n",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"collectionId": "0d4c7c7c-99ae-0897-9c86-672de43ad5cf"
+		},
+		{
+			"folder": "626d666a-7e84-42b5-6099-98221f8a9573",
+			"id": "19f17ae9-7b20-222c-ed4f-4891ef83b1e2",
+			"name": "删除基站运维",
+			"dataMode": "urlencoded",
+			"data": [
+				{
+					"key": "_id",
+					"value": "570b5ef1145af99d28cc0ec1",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "token",
+					"value": "{{token}】",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"rawModeData": null,
+			"descriptionFormat": null,
+			"description": "",
+			"headers": "",
+			"method": "POST",
+			"pathVariables": {},
+			"url": "{{URL}}/v2/station/update/repairer/del",
+			"preRequestScript": null,
+			"tests": "tests[\"请求成功\"] = responseCode.code === 200;\r\n\r\n\r\n \r\nvar jsonData = JSON.parse(responseBody);\r\n \r\n \r\ntests[\"回返正确\"] = jsonData.code === 200",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"collectionId": "0d4c7c7c-99ae-0897-9c86-672de43ad5cf"
+		},
+		{
+			"id": "1bfc8391-818e-9098-484c-70fce48542a5",
+			"headers": "",
+			"url": "{{URL}}/v2/station/update/info",
+			"preRequestScript": null,
+			"pathVariables": {},
+			"method": "POST",
+			"data": [
+				{
+					"key": "token",
+					"value": "{{token}}",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "_id",
+					"value": "{{bs_id}}",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "name",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "identifier",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "category",
+					"value": "common",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "deviceUUID",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "status",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "quantity",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "urlencoded",
+			"tests": "tests[\"请求成功\"] = responseCode.code === 200;\r\n\r\n\r\n \r\nvar jsonData = JSON.parse(responseBody);\r\n \r\n \r\ntests[\"回返正确\"] = jsonData.code === 200",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1464082646457,
+			"name": "更新基站数据 ",
+			"description": "",
+			"collectionId": "0d4c7c7c-99ae-0897-9c86-672de43ad5cf",
+			"folder": "626d666a-7e84-42b5-6099-98221f8a9573"
+		},
+		{
+			"folder": "1ffa5fe5-5edf-1752-c3cc-0cb041515345",
+			"id": "236f702a-7fd2-fcdb-0e6e-588f471b5dd7",
+			"name": "更新机构信息 copy",
+			"dataMode": "urlencoded",
+			"data": [
+				{
+					"key": "token",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "_id",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "status",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "name",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "permissions",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"rawModeData": null,
+			"descriptionFormat": "html",
+			"description": "",
+			"headers": "",
+			"method": "POST",
+			"pathVariables": {},
+			"url": "{{URL}}/v2/company/update/info",
+			"preRequestScript": null,
+			"tests": "tests[\"请求成功\"] = responseCode.code === 200;\r\n\r\n\r\n \r\nvar jsonData = JSON.parse(responseBody);\r\n \r\n \r\ntests[\"回返正确\"] = jsonData.code === 200",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"collectionId": "0d4c7c7c-99ae-0897-9c86-672de43ad5cf"
+		},
+		{
+			"folder": "626d666a-7e84-42b5-6099-98221f8a9573",
+			"id": "2536c5b4-9d1f-382c-f5f4-66b74d8adf0c",
+			"name": "删除基站施工",
+			"dataMode": "urlencoded",
+			"data": [
+				{
+					"key": "_id",
+					"value": "570b5ef1145af99d28cc0ec1",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "token",
+					"value": "{{token}】",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"rawModeData": null,
+			"descriptionFormat": null,
+			"description": "",
+			"headers": "",
+			"method": "POST",
+			"pathVariables": {},
+			"url": "{{URL}}/v2/station/update/repairer/del",
+			"preRequestScript": null,
+			"tests": "tests[\"请求成功\"] = responseCode.code === 200;\r\n\r\n\r\n \r\nvar jsonData = JSON.parse(responseBody);\r\n \r\n \r\ntests[\"回返正确\"] = jsonData.code === 200",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"collectionId": "0d4c7c7c-99ae-0897-9c86-672de43ad5cf"
+		},
+		{
+			"folder": "0d418fcb-d434-7b24-530c-c4a259aebcae",
+			"id": "35cbad9e-7377-7c7a-f4e5-b4d45d4ed47e",
+			"name": "获取某个机构的员工信息列表 ",
+			"dataMode": "urlencoded",
+			"data": [
+				{
+					"key": "token",
+					"value": "",
+					"type": "text",
+					"enabled": false
+				},
+				{
+					"key": "page",
+					"value": "1",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "count",
+					"value": "18",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "_id",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "belongs",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "nameKeywords",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "phoneNumberKeywords",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"rawModeData": null,
+			"descriptionFormat": null,
+			"description": "",
+			"headers": "",
+			"method": "GET",
+			"pathVariables": {},
+			"url": "{{URL}}/v2/user/query/colleagues?page=1&count=18&token={{token}}",
+			"preRequestScript": null,
+			"tests": "tests[\"请求成功\"] = responseCode.code === 200;\r\n\r\n\r\n \r\nvar jsonData = JSON.parse(responseBody);\r\n \r\n \r\ntests[\"回返正确\"] = jsonData.code === 200",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"collectionId": "0d4c7c7c-99ae-0897-9c86-672de43ad5cf"
+		},
+		{
+			"folder": "0d418fcb-d434-7b24-530c-c4a259aebcae",
+			"id": "41a45591-81d1-54b5-fe1f-f07759a21a54",
+			"name": "创建下属机构负责人 ",
+			"dataMode": "urlencoded",
+			"data": [
+				{
+					"key": "token",
+					"value": "{{token}}",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "pattern",
+					"value": "subsector",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "name",
+					"value": "下属机构负责人",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "phoneNumber",
+					"value": "12300020012",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "pwd",
+					"value": "123456",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "email",
+					"value": "xs@qq.com",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "headship",
+					"value": "下属机构负责人",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"rawModeData": null,
+			"descriptionFormat": null,
+			"description": "",
+			"headers": "",
+			"method": "POST",
+			"pathVariables": {},
+			"url": "{{URL}}/v2/user/signup",
+			"preRequestScript": null,
+			"tests": "tests[\"请求成功\"] = responseCode.code === 200;\n\n\n \nvar jsonData = JSON.parse(responseBody);\n \n \ntests[\"回返正确\"] = jsonData.code === 200",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"collectionId": "0d4c7c7c-99ae-0897-9c86-672de43ad5cf"
+		},
+		{
+			"id": "44f93758-ab0d-57bd-78f8-fb8ca9b2e660",
+			"folder": "626d666a-7e84-42b5-6099-98221f8a9573",
+			"name": "条件查询权限范围内基站信息 copy",
+			"dataMode": "params",
+			"data": null,
+			"rawModeData": null,
+			"descriptionFormat": null,
+			"description": "",
+			"headers": "",
+			"method": "GET",
+			"pathVariables": {},
+			"url": "{{URL}}/v2/station/query?token={{token}}&page=1&count=20&name=文庙站",
+			"preRequestScript": null,
+			"tests": "tests[\"请求成功\"] = responseCode.code === 200;\r\n\r\n\r\n \r\nvar jsonData = JSON.parse(responseBody);\r\n \r\n \r\ntests[\"回返正确\"] = jsonData.code === 200\r\n\r\npostman.setEnvironmentVariable(\"bs_id\", jsonData.data.result._id);",
+			"currentHelper": "normal",
+			"helperAttributes": "{}",
+			"collectionId": "0d4c7c7c-99ae-0897-9c86-672de43ad5cf"
+		},
+		{
+			"folder": "0d418fcb-d434-7b24-530c-c4a259aebcae",
+			"id": "463beed1-159f-1992-abd7-bec8716357fe",
+			"name": "删除新S2",
+			"dataMode": "urlencoded",
+			"data": [
+				{
+					"key": "token",
+					"value": "{{token}}",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "_id",
+					"value": "{{_id2}}",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"rawModeData": null,
+			"descriptionFormat": null,
+			"description": "",
+			"headers": "",
+			"method": "POST",
+			"pathVariables": {},
+			"url": "{{URL}}/v2/user/del",
+			"preRequestScript": null,
+			"tests": "tests[\"请求成功\"] = responseCode.code === 200;\r\n\r\n\r\n \r\nvar jsonData = JSON.parse(responseBody);\r\n \r\n \r\ntests[\"回返正确\"] = jsonData.code === 200",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"collectionId": "0d4c7c7c-99ae-0897-9c86-672de43ad5cf"
+		},
+		{
+			"id": "464f5a7b-a4a1-cacc-2a85-cd1c7343c713",
+			"headers": "//token: \n//pattern: \n//page: \n//count: \n//_id: \n//name: \n//status: \n//nameKeywords: \n//phoneNumberKeywords: \n",
+			"url": "{{URL}}/v2/company/query/conditions?token={{token}}&pattern=conditions&page=1&count=20&regions=五华区&permissions[]={P4}",
+			"preRequestScript": null,
+			"pathVariables": {},
+			"method": "GET",
+			"data": [
+				{
+					"key": "token",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "pattern",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "page",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "count",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "_id",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "name",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "status",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "nameKeywords",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "phoneNumberKeywords",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "urlencoded",
+			"tests": "tests[\"请求成功\"] = responseCode.code === 200;\r\n\r\n\r\n \r\nvar jsonData = JSON.parse(responseBody);\r\n \r\n \r\ntests[\"回返正确\"] = jsonData.code === 200",
+			"currentHelper": "normal",
+			"helperAttributes": "{}",
+			"time": 1464081228254,
+			"name": "查询运维施工公司",
+			"description": "",
+			"collectionId": "0d4c7c7c-99ae-0897-9c86-672de43ad5cf",
+			"rawModeData": null,
+			"descriptionFormat": null,
+			"folder": "626d666a-7e84-42b5-6099-98221f8a9573"
+		},
+		{
+			"folder": "0d418fcb-d434-7b24-530c-c4a259aebcae",
+			"id": "564594d6-7a9a-da20-7f77-211fac2e918c",
+			"name": "新S2登陆 获取id",
+			"dataMode": "urlencoded",
+			"data": [
+				{
+					"key": "phoneNumber",
+					"value": "12300010022",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "password",
+					"value": "123456",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "captcha",
+					"value": "ghjfth",
+					"type": "text",
+					"enabled": false
+				}
+			],
+			"rawModeData": null,
+			"descriptionFormat": null,
+			"description": "",
+			"headers": "//Authorization: Basic MTIzMDAyODAyMjE6MTIzNDU2\n",
+			"method": "POST",
+			"pathVariables": {},
+			"url": "{{URL}}/v2/user/signin",
+			"preRequestScript": null,
+			"tests": "tests[\"请求成功\"] = responseCode.code === 200;\n\n\n \nvar jsonData = JSON.parse(responseBody);\n \n \ntests[\"登陆成功\"] = jsonData.code === 200\n\n\npostman.setEnvironmentVariable(\"_id2\", jsonData.data._id);\n\n",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"collectionId": "0d4c7c7c-99ae-0897-9c86-672de43ad5cf"
+		},
+		{
+			"folder": "0d418fcb-d434-7b24-530c-c4a259aebcae",
+			"id": "5d0f4847-c0df-22d2-e0a6-3862843da023",
+			"name": "根据条件查询用户信息 copy",
+			"dataMode": "urlencoded",
+			"data": [
+				{
+					"key": "token",
+					"value": "",
+					"type": "text",
+					"enabled": false
+				},
+				{
+					"key": "page",
+					"value": "1",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "count",
+					"value": "18",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "_id",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "belongs",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "nameKeywords",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "phoneNumberKeywords",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"rawModeData": null,
+			"descriptionFormat": null,
+			"description": "",
+			"headers": "",
+			"method": "GET",
+			"pathVariables": {},
+			"url": "{{URL}}/v2/user/query?page=1&count=18&token={{token}}",
+			"preRequestScript": null,
+			"tests": "tests[\"请求成功\"] = responseCode.code === 200;\r\n\r\n\r\n \r\nvar jsonData = JSON.parse(responseBody);\r\n \r\n \r\ntests[\"回返正确\"] = jsonData.code === 200",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"collectionId": "0d4c7c7c-99ae-0897-9c86-672de43ad5cf"
+		},
+		{
+			"folder": "0d418fcb-d434-7b24-530c-c4a259aebcae",
+			"id": "61ac00e7-8b3f-3839-22d2-d2b0f4a49dd5",
+			"name": "激活P1S2状态 ",
+			"dataMode": "urlencoded",
+			"data": [
+				{
+					"key": "token",
+					"value": "{{token}}",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "_id",
+					"value": "{{_id2}}",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "name",
+					"value": "王立秋2",
+					"type": "text",
+					"enabled": false
+				},
+				{
+					"key": "email",
+					"value": "1@qq.com",
+					"type": "text",
+					"enabled": false
+				},
+				{
+					"key": "headship",
+					"value": "",
+					"type": "text",
+					"enabled": false
+				},
+				{
+					"key": "newStatus",
+					"value": "active",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "permissions",
+					"value": "",
+					"type": "text",
+					"enabled": false
+				}
+			],
+			"rawModeData": null,
+			"descriptionFormat": null,
+			"description": "",
+			"headers": "",
+			"method": "POST",
+			"pathVariables": {},
+			"url": "{{URL}}/v2/user/update/info",
+			"preRequestScript": null,
+			"tests": "tests[\"请求成功\"] = responseCode.code === 200;\n\n\n \nvar jsonData = JSON.parse(responseBody);\n \n \ntests[\"修改账号信息成功\"] = jsonData.code === 200",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"collectionId": "0d4c7c7c-99ae-0897-9c86-672de43ad5cf"
+		},
+		{
+			"folder": "0d418fcb-d434-7b24-530c-c4a259aebcae",
+			"id": "630fb44e-1f53-5e5b-4fe9-725d6be0f364",
+			"name": "修改P1S2信息",
+			"dataMode": "urlencoded",
+			"data": [
+				{
+					"key": "token",
+					"value": "{{token}}",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "_id",
+					"value": "{{_id2}}",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "name",
+					"value": "王立秋2",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "email",
+					"value": "wlq2@qq.com",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "headship",
+					"value": "省公司高级工程师",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "newStatus",
+					"value": "inactive",
+					"type": "text",
+					"enabled": false
+				},
+				{
+					"key": "permissions",
+					"value": "",
+					"type": "text",
+					"enabled": false
+				}
+			],
+			"rawModeData": null,
+			"descriptionFormat": "html",
+			"description": "",
+			"headers": "",
+			"method": "POST",
+			"pathVariables": {},
+			"url": "{{URL}}/v2/user/update/info",
+			"preRequestScript": null,
+			"tests": "tests[\"请求成功\"] = responseCode.code === 200;\n\n\n \nvar jsonData = JSON.parse(responseBody);\n \n \ntests[\"修改账号信息成功\"] = jsonData.code === 200",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"collectionId": "0d4c7c7c-99ae-0897-9c86-672de43ad5cf"
+		},
+		{
+			"folder": "1ffa5fe5-5edf-1752-c3cc-0cb041515345",
+			"id": "6566d86c-af30-890f-33d9-36a1e76b4e5c",
+			"name": "P1S1登陆  copy",
+			"dataMode": "urlencoded",
+			"data": [
+				{
+					"key": "phoneNumber",
+					"value": "12300010001",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "password",
+					"value": "123456",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "captcha",
+					"value": "ghjfth",
+					"type": "text",
+					"enabled": false
+				}
+			],
+			"rawModeData": null,
+			"descriptionFormat": null,
+			"description": "",
+			"headers": "//Authorization: Basic MTIzMDAyODAyMjE6MTIzNDU2\n",
+			"method": "POST",
+			"pathVariables": {},
+			"url": "{{URL}}/v2/user/signin",
+			"preRequestScript": null,
+			"tests": "tests[\"请求成功\"] = responseCode.code === 200;\n\n\n \nvar jsonData = JSON.parse(responseBody);\n \n \ntests[\"登陆成功\"] = jsonData.code === 200\n\n\n\npostman.setEnvironmentVariable(\"token\", jsonData.data.accessToken);\n//postman.setEnvironmentVariable(\"_id\", jsonData.data._id);\n\n\n",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"collectionId": "0d4c7c7c-99ae-0897-9c86-672de43ad5cf"
+		},
+		{
+			"folder": "1ffa5fe5-5edf-1752-c3cc-0cb041515345",
+			"id": "65daef5b-0086-e00b-6057-d66c70053db7",
+			"name": "删除机构的数据 copy",
+			"dataMode": "urlencoded",
+			"data": [
+				{
+					"key": "token",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "_id",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"rawModeData": null,
+			"descriptionFormat": "html",
+			"description": "",
+			"headers": "",
+			"method": "POST",
+			"pathVariables": {},
+			"url": "{{URL}}/v2/company/del",
+			"preRequestScript": null,
+			"tests": "tests[\"请求成功\"] = responseCode.code === 200;\r\n\r\n\r\n \r\nvar jsonData = JSON.parse(responseBody);\r\n \r\n \r\ntests[\"回返正确\"] = jsonData.code === 200",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"collectionId": "0d4c7c7c-99ae-0897-9c86-672de43ad5cf"
+		},
+		{
+			"folder": "1ffa5fe5-5edf-1752-c3cc-0cb041515345",
+			"id": "7775762e-6d4a-804f-2192-d30e54ab2166",
+			"name": "新增机构   copy",
+			"dataMode": "raw",
+			"data": [],
+			"descriptionFormat": null,
+			"description": "",
+			"headers": "Content-Type: application/json\n",
+			"method": "POST",
+			"pathVariables": {},
+			"url": "{{URL}}/v2/company/add",
+			"preRequestScript": null,
+			"tests": "tests[\"请求成功\"] = responseCode.code === 200;\r\n\r\n\r\n \r\nvar jsonData = JSON.parse(responseBody);\r\n \r\n \r\ntests[\"回返正确\"] = jsonData.code === 200",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"collectionId": "0d4c7c7c-99ae-0897-9c86-672de43ad5cf",
+			"rawModeData": "{\n    \"token\":\"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjU3MDBkMGNkZWIzYjBmODQxMmU3MDI3ZiIsImlhdCI6MTQ2MTEzNzgzMywiZXhwIjoxNDYxNzQyNjMzfQ.0MWed9hHkUQJVUr6MF9ste1EHl167gT_AiSdSGnxcr4\",\n    \"head\":\"57172f47f563bd930d757799\",\n    \"name\":\"四川省德阳市铁塔分公司\",\n    \"permissions\":\"P2\",\n    \"province\":\"四川省\",\n    \"city\":\"德阳市\",\n    \"regions\":[\"胜阳区\"]\n}"
+		},
+		{
+			"folder": "0d418fcb-d434-7b24-530c-c4a259aebcae",
+			"id": "7eda3c89-9615-3b46-292d-c572cdb3426c",
+			"name": "冻结P1S2状态",
+			"dataMode": "urlencoded",
+			"data": [
+				{
+					"key": "token",
+					"value": "{{token}}",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "_id",
+					"value": "{{_id2}}",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "name",
+					"value": "王立秋2",
+					"type": "text",
+					"enabled": false
+				},
+				{
+					"key": "email",
+					"value": "1@qq.com",
+					"type": "text",
+					"enabled": false
+				},
+				{
+					"key": "headship",
+					"value": "",
+					"type": "text",
+					"enabled": false
+				},
+				{
+					"key": "newStatus",
+					"value": "inactive",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "permissions",
+					"value": "",
+					"type": "text",
+					"enabled": false
+				}
+			],
+			"rawModeData": null,
+			"descriptionFormat": null,
+			"description": "",
+			"headers": "",
+			"method": "POST",
+			"pathVariables": {},
+			"url": "{{URL}}/v2/user/update/info",
+			"preRequestScript": null,
+			"tests": "tests[\"请求成功\"] = responseCode.code === 200;\n\n\n \nvar jsonData = JSON.parse(responseBody);\n \n \ntests[\"修改账号信息成功\"] = jsonData.code === 200",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"collectionId": "0d4c7c7c-99ae-0897-9c86-672de43ad5cf"
+		},
+		{
+			"folder": "0d418fcb-d434-7b24-530c-c4a259aebcae",
+			"id": "803bcb5b-81a5-8a65-b7d0-13b0cc737e13",
+			"name": "新下属机构负责人登陆 ",
+			"dataMode": "urlencoded",
+			"data": [
+				{
+					"key": "phoneNumber",
+					"value": "12300020012",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "password",
+					"value": "123456",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "captcha",
+					"value": "ghjfth",
+					"type": "text",
+					"enabled": false
+				}
+			],
+			"rawModeData": null,
+			"descriptionFormat": null,
+			"description": "",
+			"headers": "//Authorization: Basic MTIzMDAyODAyMjE6MTIzNDU2\n",
+			"method": "POST",
+			"pathVariables": {},
+			"url": "{{URL}}/v2/user/signin",
+			"preRequestScript": null,
+			"tests": "tests[\"请求成功\"] = responseCode.code === 200;\n\n\n \nvar jsonData = JSON.parse(responseBody);\n \n \ntests[\"回返正确\"] = jsonData.code === 20013\n\n\n\n",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"collectionId": "0d4c7c7c-99ae-0897-9c86-672de43ad5cf"
+		},
+		{
+			"folder": "626d666a-7e84-42b5-6099-98221f8a9573",
+			"id": "8219f868-3f12-33dc-45bb-810031d85137",
+			"name": "P1S1登陆",
+			"dataMode": "urlencoded",
+			"data": [
+				{
+					"key": "phoneNumber",
+					"value": "12300010001",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "password",
+					"value": "123456",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "captcha",
+					"value": "ghjfth",
+					"type": "text",
+					"enabled": false
+				}
+			],
+			"rawModeData": null,
+			"descriptionFormat": null,
+			"description": "",
+			"headers": "//Authorization: Basic MTIzMDAyODAyMjE6MTIzNDU2\n",
+			"method": "POST",
+			"pathVariables": {},
+			"url": "{{URL}}/v2/user/signin",
+			"preRequestScript": null,
+			"tests": "tests[\"请求成功\"] = responseCode.code === 200;\n\n\n \nvar jsonData = JSON.parse(responseBody);\n \n \ntests[\"登陆成功\"] = jsonData.code === 200\n\n\n\npostman.setEnvironmentVariable(\"token\", jsonData.data.accessToken);\n//postman.setEnvironmentVariable(\"_id\", jsonData.data._id);\n\n\n",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"collectionId": "0d4c7c7c-99ae-0897-9c86-672de43ad5cf"
+		},
+		{
+			"folder": "0d418fcb-d434-7b24-530c-c4a259aebcae",
+			"id": "831b8fb4-e73f-005e-ce8a-a09231ec54a2",
+			"name": "P1S2登陆",
+			"dataMode": "urlencoded",
+			"data": [
+				{
+					"key": "phoneNumber",
+					"value": "12300010021",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "password",
+					"value": "123456",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "captcha",
+					"value": "ghjfth",
+					"type": "text",
+					"enabled": false
+				}
+			],
+			"rawModeData": null,
+			"descriptionFormat": null,
+			"description": "",
+			"headers": "//Authorization: Basic MTIzMDAyODAyMjE6MTIzNDU2\n",
+			"method": "POST",
+			"pathVariables": {},
+			"url": "{{URL}}/v2/user/signin",
+			"preRequestScript": null,
+			"tests": "tests[\"请求成功\"] = responseCode.code === 200;\n\n\n \nvar jsonData = JSON.parse(responseBody);\n \n \ntests[\"登陆成功\"] = jsonData.code === 200\n\n\n\npostman.setEnvironmentVariable(\"token2\", jsonData.data.accessToken);\npostman.setEnvironmentVariable(\"_id2\", jsonData.data._id);\n\n\n",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"collectionId": "0d4c7c7c-99ae-0897-9c86-672de43ad5cf"
+		},
+		{
+			"folder": "1ffa5fe5-5edf-1752-c3cc-0cb041515345",
+			"id": "8e50f443-c84f-ba7d-e9be-d92e50ab4a48",
+			"name": "更新机构负责人 copy",
+			"dataMode": "urlencoded",
+			"data": [
+				{
+					"key": "token",
+					"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjU3MjJjN2NhYzVhZjQ4NjY2ODQ2MWFiMCIsImlhdCI6MTQ2MTk4MTgxNSwiZXhwIjoxNDYyNTg2NjE1fQ.PLUOKfOlLUw20XDAOSbfSrpei23e8itQnMq14wTNfS0",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "_id",
+					"value": "572182a69d2f5b82590f4ea7",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "headPhoneNumber",
+					"value": "12300020021",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "operatorPassword",
+					"value": "123456",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"rawModeData": null,
+			"descriptionFormat": "html",
+			"description": "",
+			"headers": "",
+			"method": "POST",
+			"pathVariables": {},
+			"url": "{{URL}}/v2/company/update/head",
+			"preRequestScript": null,
+			"tests": "tests[\"请求成功\"] = responseCode.code === 200;\r\n\r\n\r\n \r\nvar jsonData = JSON.parse(responseBody);\r\n \r\n \r\ntests[\"回返正确\"] = jsonData.code === 200",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"collectionId": "0d4c7c7c-99ae-0897-9c86-672de43ad5cf"
+		},
+		{
+			"folder": "1ffa5fe5-5edf-1752-c3cc-0cb041515345",
+			"id": "8fda9ac0-ac12-d9df-3910-fcf4a3ef6125",
+			"name": "条件查询权限范围内机构信息 copy",
+			"dataMode": "urlencoded",
+			"data": [
+				{
+					"key": "token",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "pattern",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "page",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "count",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "_id",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "name",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "status",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "nameKeywords",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "phoneNumberKeywords",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"rawModeData": null,
+			"descriptionFormat": null,
+			"description": "",
+			"headers": "//token: \n//pattern: \n//page: \n//count: \n//_id: \n//name: \n//status: \n//nameKeywords: \n//phoneNumberKeywords: \n",
+			"method": "GET",
+			"pathVariables": {},
+			"url": "{{URL}}/v2/company/query/conditions?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjU3MjJjN2NhYzVhZjQ4NjY2ODQ2MWFiMCIsImlhdCI6MTQ2MTk5NTQxMywiZXhwIjoxNDYyNjAwMjEzfQ.fVHfarQhXbpQN-bolcJ1_gcIQTFsz851PcQGhPcKsbI&pattern=all&page=1&count=20",
+			"preRequestScript": null,
+			"tests": "tests[\"请求成功\"] = responseCode.code === 200;\r\n\r\n\r\n \r\nvar jsonData = JSON.parse(responseBody);\r\n \r\n \r\ntests[\"回返正确\"] = jsonData.code === 200",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"collectionId": "0d4c7c7c-99ae-0897-9c86-672de43ad5cf"
+		},
+		{
+			"folder": "0d418fcb-d434-7b24-530c-c4a259aebcae",
+			"id": "95c05f18-cdc5-2d06-d949-c091807b7745",
+			"name": "修改自己账号邮箱信息 ",
+			"dataMode": "urlencoded",
+			"data": [
+				{
+					"key": "token",
+					"value": "{{token}}",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "_id",
+					"value": "{{_id}}",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "name",
+					"value": "田润华2",
+					"type": "text",
+					"enabled": false
+				},
+				{
+					"key": "email",
+					"value": "1@qq.com",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "headship",
+					"value": "",
+					"type": "text",
+					"enabled": false
+				},
+				{
+					"key": "newStatus",
+					"value": "",
+					"type": "text",
+					"enabled": false
+				},
+				{
+					"key": "permissions",
+					"value": "",
+					"type": "text",
+					"enabled": false
+				}
+			],
+			"rawModeData": null,
+			"descriptionFormat": null,
+			"description": "",
+			"headers": "",
+			"method": "POST",
+			"pathVariables": {},
+			"url": "{{URL}}/v2/user/update/info",
+			"preRequestScript": null,
+			"tests": "tests[\"请求成功\"] = responseCode.code === 200;\n\n\n \nvar jsonData = JSON.parse(responseBody);\n \n \ntests[\"修改账号信息成功\"] = jsonData.code === 200",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"collectionId": "0d4c7c7c-99ae-0897-9c86-672de43ad5cf"
+		},
+		{
+			"folder": "626d666a-7e84-42b5-6099-98221f8a9573",
+			"id": "a848a623-bd74-9f3d-7dee-594e59c2a1cf",
+			"name": "新增基站 ",
+			"dataMode": "urlencoded",
+			"data": [
+				{
+					"key": "token",
+					"value": "{{token}}",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "pattern",
+					"value": "common",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "name",
+					"value": "文庙站",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "identifier",
+					"value": "12300010001002",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "province",
+					"value": "云南",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "city",
+					"value": "昆明市",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "regions",
+					"value": "五华区",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "address",
+					"value": "人民中路96号",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "category",
+					"value": "common",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "quantity",
+					"value": "1",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"rawModeData": null,
+			"descriptionFormat": null,
+			"description": "",
+			"headers": "",
+			"method": "POST",
+			"pathVariables": {},
+			"url": "{{URL}}/v2/station/add",
+			"preRequestScript": null,
+			"tests": "tests[\"请求成功\"] = responseCode.code === 200;\r\n\r\n\r\n \r\nvar jsonData = JSON.parse(responseBody);\r\n \r\n \r\ntests[\"回返正确\"] = jsonData.code === 200",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"collectionId": "0d4c7c7c-99ae-0897-9c86-672de43ad5cf"
+		},
+		{
+			"folder": "1ffa5fe5-5edf-1752-c3cc-0cb041515345",
+			"id": "ac05ab34-9270-9bde-775a-da897a9060bb",
+			"name": "直属下属机构列表 copy",
+			"dataMode": "params",
+			"data": null,
+			"rawModeData": null,
+			"descriptionFormat": null,
+			"description": "",
+			"headers": "token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjU3MDBkMGNkZWIzYjBmODQxMmU3MDI3ZiIsImlhdCI6MTQ2MTExOTM3NiwiZXhwIjoxNDYxNzI0MTc2fQ.KjvpQ7v8RhrEXtoZvu6tqPDksOxFoaqr9qTU3Eb4w5A\n",
+			"method": "GET",
+			"pathVariables": {},
+			"url": "{{URL}}/v2/company/query/subdivisions",
+			"preRequestScript": null,
+			"tests": "tests[\"请求成功\"] = responseCode.code === 200;\r\n\r\n\r\n \r\nvar jsonData = JSON.parse(responseBody);\r\n \r\n \r\ntests[\"回返正确\"] = jsonData.code === 200",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"collectionId": "0d4c7c7c-99ae-0897-9c86-672de43ad5cf"
+		},
+		{
+			"folder": "0d418fcb-d434-7b24-530c-c4a259aebcae",
+			"id": "b879afd7-125e-d8e3-7fb5-14eb82ade4f5",
+			"name": "修改自己账号登录密码 ",
+			"dataMode": "urlencoded",
+			"data": [
+				{
+					"key": "token",
+					"value": "{{token}}",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "_id",
+					"value": "{{_id}}",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "oldPassword",
+					"value": "123456",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "newPassword",
+					"value": "111111",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"rawModeData": null,
+			"descriptionFormat": null,
+			"description": "",
+			"headers": "",
+			"method": "POST",
+			"pathVariables": {},
+			"url": "{{URL}}/v2/user/update/pwd",
+			"preRequestScript": null,
+			"tests": "tests[\"请求成功\"] = responseCode.code === 200;\n\n\n \nvar jsonData = JSON.parse(responseBody);\n \n \ntests[\"回返正确\"] = jsonData.code === 200",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"collectionId": "0d4c7c7c-99ae-0897-9c86-672de43ad5cf"
+		},
+		{
+			"folder": "0d418fcb-d434-7b24-530c-c4a259aebcae",
+			"id": "d1bccf86-6ac1-d3fa-dce2-b1f067b008e1",
+			"name": "恢复原密码",
+			"dataMode": "urlencoded",
+			"data": [
+				{
+					"key": "token",
+					"value": "{{token}}",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "_id",
+					"value": "{{_id}}",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "oldPassword",
+					"value": "111111",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "newPassword",
+					"value": "123456",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"rawModeData": null,
+			"descriptionFormat": null,
+			"description": "",
+			"headers": "",
+			"method": "POST",
+			"pathVariables": {},
+			"url": "{{URL}}/v2/user/update/pwd",
+			"preRequestScript": null,
+			"tests": "tests[\"请求成功\"] = responseCode.code === 200;\n\n\n \nvar jsonData = JSON.parse(responseBody);\n \n \ntests[\"修改账号信息成功\"] = jsonData.code === 200",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"collectionId": "0d4c7c7c-99ae-0897-9c86-672de43ad5cf"
+		},
+		{
+			"folder": "0d418fcb-d434-7b24-530c-c4a259aebcae",
+			"id": "e42c8c69-2a59-060b-96df-b70292cd434a",
+			"name": "P1S1登陆【修改账号信息】",
+			"dataMode": "urlencoded",
+			"data": [
+				{
+					"key": "phoneNumber",
+					"value": "12300010001",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "password",
+					"value": "123456",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "captcha",
+					"value": "ghjfth",
+					"type": "text",
+					"enabled": false
+				}
+			],
+			"rawModeData": null,
+			"descriptionFormat": null,
+			"description": "",
+			"headers": "//Authorization: Basic MTIzMDAyODAyMjE6MTIzNDU2\n",
+			"method": "POST",
+			"pathVariables": {},
+			"url": "{{URL}}/v2/user/signin",
+			"preRequestScript": null,
+			"tests": "tests[\"请求成功\"] = responseCode.code === 200;\n\n\n \nvar jsonData = JSON.parse(responseBody);\n \n \ntests[\"登陆成功\"] = jsonData.code === 200\n\n\n\npostman.setEnvironmentVariable(\"token\", jsonData.data.accessToken);\npostman.setEnvironmentVariable(\"_id\", jsonData.data._id);\n\n\n",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"collectionId": "0d4c7c7c-99ae-0897-9c86-672de43ad5cf"
+		},
+		{
+			"folder": "0d418fcb-d434-7b24-530c-c4a259aebcae",
+			"id": "edaa9cce-ec00-a42c-682c-a4a2201b1a31",
+			"name": "P1S1登陆【创建新账号】 ",
+			"dataMode": "urlencoded",
+			"data": [
+				{
+					"key": "phoneNumber",
+					"value": "12300010001",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "password",
+					"value": "123456",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "captcha",
+					"value": "ghjfth",
+					"type": "text",
+					"enabled": false
+				}
+			],
+			"rawModeData": null,
+			"descriptionFormat": null,
+			"description": "",
+			"headers": "//Authorization: Basic MTIzMDAyODAyMjE6MTIzNDU2\n",
+			"method": "POST",
+			"pathVariables": {},
+			"url": "{{URL}}/v2/user/signin",
+			"preRequestScript": null,
+			"tests": "tests[\"请求成功\"] = responseCode.code === 200;\n\n\n \nvar jsonData = JSON.parse(responseBody);\n \n \ntests[\"登陆成功\"] = jsonData.code === 200\n\n\n\npostman.setEnvironmentVariable(\"token\", jsonData.data.accessToken);\npostman.setEnvironmentVariable(\"_id\", jsonData.data._id);\n\n\n",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"collectionId": "0d4c7c7c-99ae-0897-9c86-672de43ad5cf"
+		},
+		{
+			"folder": "0d418fcb-d434-7b24-530c-c4a259aebcae",
+			"id": "f489f713-9543-8912-8744-12ae5f3d82d5",
+			"name": "创建本机构S2账号",
+			"dataMode": "urlencoded",
+			"data": [
+				{
+					"key": "token",
+					"value": "{{token}}",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "pattern",
+					"value": "self",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "name",
+					"value": "本机构S2",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "phoneNumber",
+					"value": "12300010022",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "pwd",
+					"value": "123456",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "email",
+					"value": "S2@qq.com",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "headship",
+					"value": "铁塔公司运维工程师2号",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"rawModeData": null,
+			"descriptionFormat": null,
+			"description": "",
+			"headers": "",
+			"method": "POST",
+			"pathVariables": {},
+			"url": "{{URL}}/v2/user/signup",
+			"preRequestScript": null,
+			"tests": "tests[\"请求成功\"] = responseCode.code === 200;\n\n\n \nvar jsonData = JSON.parse(responseBody);\n \n \ntests[\"回返正确\"] = jsonData.code === 200",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"collectionId": "0d4c7c7c-99ae-0897-9c86-672de43ad5cf"
+		},
+		{
+			"id": "f7b420a2-5146-e3f9-e77c-167d556f454c",
+			"headers": "",
+			"url": "{{URL}}/v2/station/update/repairer/add",
+			"preRequestScript": null,
+			"pathVariables": {},
+			"method": "POST",
+			"data": [
+				{
+					"key": "_id",
+					"value": "{{bs_id}}",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "repairerId",
+					"value": "5727514e22c743ec579d79e3",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "token",
+					"value": "{{token}}",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "urlencoded",
+			"tests": "tests[\"请求成功\"] = responseCode.code === 200;\r\n\r\n\r\n \r\nvar jsonData = JSON.parse(responseBody);\r\n \r\n \r\ntests[\"回返正确\"] = jsonData.code === 200",
+			"currentHelper": "normal",
+			"helperAttributes": "{}",
+			"time": 1464081238156,
+			"name": "新增基站运维/施工公司 ",
+			"description": "",
+			"collectionId": "0d4c7c7c-99ae-0897-9c86-672de43ad5cf",
+			"rawModeData": null,
+			"descriptionFormat": null,
+			"folder": "626d666a-7e84-42b5-6099-98221f8a9573"
+		},
+		{
+			"id": "f87f2de1-b9bd-cf7c-4205-7eb9bf980529",
+			"headers": "//token: \n//pattern: \n//page: \n//count: \n//_id: \n//name: \n//status: \n//nameKeywords: \n//phoneNumberKeywords: \n",
+			"url": "{{URL}}/v2/company/query/conditions?token={{token}}&pattern=conditions&page=1&count=20&regions=五华区&permissions[]={P5}",
+			"preRequestScript": null,
+			"pathVariables": {},
+			"method": "GET",
+			"data": [
+				{
+					"key": "token",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "pattern",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "page",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "count",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "_id",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "name",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "status",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "nameKeywords",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "phoneNumberKeywords",
+					"value": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "urlencoded",
+			"tests": "tests[\"请求成功\"] = responseCode.code === 200;\r\n\r\n\r\n \r\nvar jsonData = JSON.parse(responseBody);\r\n \r\n \r\ntests[\"回返正确\"] = jsonData.code === 200\r\n\r\npostman.setEnvironmentVariable(\"P4_id\", jsonData.data.result._id);",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1464081297994,
+			"name": "查询施工公司id 带数组 ",
+			"description": "",
+			"collectionId": "0d4c7c7c-99ae-0897-9c86-672de43ad5cf"
+		},
+		{
+			"folder": "0d418fcb-d434-7b24-530c-c4a259aebcae",
+			"id": "f920e596-b347-07f2-a3c4-f46d159c32bc",
+			"name": "P1S1登陆【修改账号登陆密码】 ",
+			"dataMode": "urlencoded",
+			"data": [
+				{
+					"key": "phoneNumber",
+					"value": "12300010001",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "password",
+					"value": "123456",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "captcha",
+					"value": "ghjfth",
+					"type": "text",
+					"enabled": false
+				}
+			],
+			"rawModeData": null,
+			"descriptionFormat": null,
+			"description": "",
+			"headers": "//Authorization: Basic MTIzMDAyODAyMjE6MTIzNDU2\n",
+			"method": "POST",
+			"pathVariables": {},
+			"url": "{{URL}}/v2/user/signin",
+			"preRequestScript": null,
+			"tests": "tests[\"请求成功\"] = responseCode.code === 200;\n\n\n \nvar jsonData = JSON.parse(responseBody);\n \n \ntests[\"登陆成功\"] = jsonData.code === 200\n\n\n\npostman.setEnvironmentVariable(\"token\", jsonData.data.accessToken);\npostman.setEnvironmentVariable(\"_id\", jsonData.data._id);\n\n\n",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"collectionId": "0d4c7c7c-99ae-0897-9c86-672de43ad5cf"
+		}
+	]
+}
